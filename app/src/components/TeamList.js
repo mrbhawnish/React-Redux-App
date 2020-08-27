@@ -1,0 +1,1 @@
+//Fetch data from: https://www.balldontlie.io/api/v1/games?seasons[]=2018&seasons[]=2017&team_ids[]=1
